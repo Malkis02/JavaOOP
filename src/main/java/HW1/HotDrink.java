@@ -1,4 +1,4 @@
-package org.example;
+package HW1;
 
 public class HotDrink extends Drink {
     private int temperature;

@@ -1,4 +1,4 @@
-package org.example;
+package HW1;
 
 import java.util.ArrayList;
 
