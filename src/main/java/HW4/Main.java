@@ -1,10 +1,10 @@
-package HW1;
+package HW4;
 import java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args) {
 
-        HotDrinkMachine hotMachine = new HotDrinkMachine();
+        DrinkMachine hotMachine = new DrinkMachine();
         ArrayList<Object> finishProd = new ArrayList<>();
         HotDrink hotDrink = new HotDrink();
 
